@@ -5,7 +5,7 @@
 💻 Some of the languages ​​and items I study:
 
    * Front-end: HTML, CSS, JavaScript.
-   * 
+
    *Frameworks/libraries: Angular.js, React, Bootstrap.
 
    *Back-end: Node.js, JavaScript, Java.
