@@ -3,9 +3,13 @@
 🔭 I'm currently studying at a technical school and my course is IT. I learn front-end, back-end and database.
 
 💻 Some of the languages ​​and items I study:
+
    * Front-end: HTML, CSS, JavaScript.
+   * 
    *Frameworks/libraries: Angular.js, React, Bootstrap.
+
    *Back-end: Node.js, JavaScript, Java.
+   
    *Database: MongoDB, MySQL
 
 🌱 Besides, I'm learning from courses, like udemy and going to lectures when not doing school work.
