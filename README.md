@@ -9,7 +9,7 @@
 📫 How to contact me:
    Linkedin: https://www.linkedin.com/in/laiara-leizer-30b18a318/ or
    Email: laiaraleizer06@gmail.com
-- ⚡ Fun fact: Without being in the IT area, I would follow the police area, like the army or something like that.
+⚡ Fun fact: Without being in the IT area, I would follow the police area, like the army or something like that.
 
 
 
