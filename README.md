@@ -1,24 +1,19 @@
 ## Hi there 👋
 
-- 🔭 Atualmente estou estudando em uma escola técnica, onde aprendo front-end, back-end e data base.
+🔭 I'm currently studying at a technical school, where I learn front-end, back-end and data base.
 
-- 🌱 Além de que estou aprendendo com cursos, como a udemy e indo palestras quando não a trabalhos da escola.
+🌱 Besides, I'm learning from courses, like udemy and going to lectures when not doing school work.
 
-- 👯 Procuro principalmente estagiar com front-end, mas se houver vaga em outra area estou disposta a dar o meu melhor 😊.
+👯 I'm mainly looking to intern with front-end, but if there's a vacancy in another area I'm willing to do my best 😊.
 
-- 📫 Como entrar em contato comigo:
-    * Linkedin: https://www.linkedin.com/in/laiara-leizer-30b18a318/
-    * Email: laiaraleizer06@gmail.com
-
-- ⚡ Curiosidade: Sem ser a área de TI, eu seguiria a área policiar, como o exercito ou algo assim.
+📫 How to contact me:
+   Linkedin: https://www.linkedin.com/in/laiara-leizer-30b18a318/
+   Email: laiaraleizer06@gmail.com
+- ⚡ Fun fact: Without being in the IT area, I would follow the police area, like the army or something like that.
 
 
 
 <!--
-**Laiara-Leizer/Laiara-Leizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
