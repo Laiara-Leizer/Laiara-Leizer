@@ -7,7 +7,7 @@
 👯 I'm mainly looking to intern with front-end, but if there's a vacancy in another area I'm willing to do my best 😊.
 
 📫 How to contact me:
-   Linkedin: https://www.linkedin.com/in/laiara-leizer-30b18a318/
+   Linkedin: https://www.linkedin.com/in/laiara-leizer-30b18a318/ or
    Email: laiaraleizer06@gmail.com
 - ⚡ Fun fact: Without being in the IT area, I would follow the police area, like the army or something like that.
 
