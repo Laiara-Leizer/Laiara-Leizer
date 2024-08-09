@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+- 🔭 Atualmente estou estudando em uma escola técnica, onde aprendo front-end, back-end e data base.
+
+- 🌱 Além de que estou aprendendo com cursos, como a udemy e indo palestras quando não a trabalhos da escola.
+
+- 👯 Procuro principalmente estagiar com front-end, mas se houver vaga em outra area estou disposta a dar o meu melhor 😊.
+
+- 📫 Como entrar em contato comigo:
+    * Linkedin: https://www.linkedin.com/in/laiara-leizer-30b18a318/
+    * Email: laiaraleizer06@gmail.com
+
+- ⚡ Curiosidade: Sem ser a área de TI, eu seguiria a área policiar, como o exercito ou algo assim.
+
+
+
 <!--
 **Laiara-Leizer/Laiara-Leizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
