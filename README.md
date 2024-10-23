@@ -32,12 +32,23 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  --> 
 
 
+ ![Laiara-Leizer's Stats](https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=600&locale=pt-br) ![Laiara-Leizer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&card_width=407&locale=pt-br)
+
+
+
+
+ ##
+
+<!--Card-->
+<!--![Laiara-Leizer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laiara-Leizer&theme=react&hide_border=true)-->
+
+
+<!--Jogo da cobrinha-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/Laiara-Leizer/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <!--
 # Hi there 👋
