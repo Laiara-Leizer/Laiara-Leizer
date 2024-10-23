@@ -1,6 +1,6 @@
 
 ## Olá, meu nome é Laiara Leizer, apenas uma estudante com grandes sonhos e paixões neste vasto mundo da programação :)
-
+<!--
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
@@ -13,7 +13,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+
   ##
  
 <div> 
@@ -29,8 +29,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 
 
-
-
+ --> 
+##
 
 
 
