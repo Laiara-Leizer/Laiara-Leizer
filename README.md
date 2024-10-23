@@ -3,7 +3,7 @@
 
 
 
- ![Laiara-Leizer's Stats](https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=545&locale=pt-br) ![Laiara-Leizer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&card_width=300&locale=pt-br)
+ ![Laiara-Leizer's Stats](https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=541&locale=pt-br) ![Laiara-Leizer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&card_width=300&locale=pt-br)
 
 
 
