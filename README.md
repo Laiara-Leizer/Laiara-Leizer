@@ -9,7 +9,7 @@
 
  ##
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara)](https://github.com/Laiara=Leizer/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara)](https://github.com/Laiara/github-readme-stats)
 
 ##
 <!--Card-->
