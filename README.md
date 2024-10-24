@@ -9,16 +9,10 @@
 </a>
 
 ##
-<a href="https://github.com/Laiara-Leizer/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br&card_width=100" />
-</a>
-<a href="https://github.com/Laiara-Leizer/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=100" />
-</a>
-##
-<a href="https://github.com/Laiara-Leizer/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br&card_width=100" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=100" />
-</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&show_icons=true&theme=radical&card_width=452)![Laiara-Leizer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=300)
+
+
 <!--START_SECTION:waka-->
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara)](https://github.com/Laiara-Leizer/github-readme-stats)
