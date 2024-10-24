@@ -1,33 +1,28 @@
 
 ## Olá, meu nome é Laiara Leizer, apenas uma estudante com grandes sonhos e paixões neste vasto mundo da programação :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&show_icons=true&theme=radical&card_width=452)![Laiara-Leizer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=300)
-
-
-
 <a href="https://github.com/Laiara-Leizer/github-readme-stats">
   <img width=446px align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" /><img width=398px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
 </a>
-<a href="https://github.com/Laiara-Leizer/convoychat">
-  
-</a>
 
-##
+
+<!-- <a href="https://github.com/Laiara-Leizer/convoychat"></a> -->
+
 
 
 
 
 
 <!--START_SECTION:waka-->
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara)](https://github.com/Laiara-Leizer/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara&layout=compact&card_width=600px)](https://github.com/Laiara-Leizer/github-readme-stats)
 <!--END_SECTION:waka-->
 
-##
-<!--Card-->
-<!--![Laiara-Leizer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laiara-Leizer&theme=react&hide_border=true)-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
@@ -35,11 +30,16 @@
 
 
 <!--Jogo da cobrinha
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+
+
+
+##
+<!--Card-->
+<!--![Laiara-Leizer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laiara-Leizer&theme=react&hide_border=true)-->
+
+
 
 
 ##
