@@ -3,8 +3,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br&card_width=400" />
-</a>
-<a href="https://github.com/Laiara-Leizer/convoychat">
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=300" />
 </a>
 
