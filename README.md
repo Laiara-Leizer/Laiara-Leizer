@@ -1,13 +1,24 @@
 
 ## Olá, meu nome é Laiara Leizer, apenas uma estudante com grandes sonhos e paixões neste vasto mundo da programação :)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br" />
+<a href="https://github.com/Laiara-Leizer/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br&card_width=100" />
 </a>
 <a href="https://github.com/Laiara-Leizer/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=100" />
 </a>
 
+##
+<a href="https://github.com/Laiara-Leizer/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br&card_width=100" />
+</a>
+<a href="https://github.com/Laiara-Leizer/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=100" />
+</a>
+##
+<a href="https://github.com/Laiara-Leizer/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br&card_width=100" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&card_width=100" />
+</a>
 <!--START_SECTION:waka-->
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara)](https://github.com/Laiara-Leizer/github-readme-stats)
@@ -17,9 +28,6 @@
 ##
 <!--Card-->
 <!--![Laiara-Leizer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laiara-Leizer&theme=react&hide_border=true)-->
-
-
-
 
 
 
@@ -47,7 +55,7 @@
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Laiara-Leizer/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br&card_width=400" />
 </a>
 <a href="https://github.com/Laiara-Leizer/convoychat">
