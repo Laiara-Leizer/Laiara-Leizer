@@ -17,6 +17,14 @@
 
 
 
+<a href="https://github.com/Laiara-Leizer/github-readme-stats">
+  <img height=200 width=452 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&show_icons=true&theme=radical" /><img width=400 height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=true&layout=compact&locale=pt-br" />
+</a>
+<a href="https://github.com/Laiara-Leizer/convoychat">
+  
+</a>
+
+##
 
 
 
@@ -29,24 +37,19 @@
 
 
 
-<!--Jogo da cobrinha-->
+
+<!--Jogo da cobrinha
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/Laiara-Leizer/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
 </picture>
 
 
 ##
+;
 
-<a href="https://github.com/Laiara-Leizer/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer" />
-</a>
-<a href="https://github.com/Laiara-Leizer/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
+-->
 
 
 
