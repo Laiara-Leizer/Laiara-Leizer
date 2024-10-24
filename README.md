@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/Laiara-Leizer/github-readme-stats">
-  <img width=446 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" /> <img width=396 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
+  <img width=445 align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" /> <img width=397 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
 </a>
 <a href="https://github.com/Laiara-Leizer/convoychat">
   
