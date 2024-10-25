@@ -4,53 +4,55 @@
 <a href="https://github.com/Laiara-Leizer/github-readme-stats">
   <img width=446px align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" /><img width=398px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
 </a>
-
-
-<!-- <a href="https://github.com/Laiara-Leizer/convoychat"></a> -->
-
+<!--Midias Sociais-->
 
 
 
 
 
-<!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara&layout=compact&card_width=600px)](https://github.com/Laiara-Leizer/github-readme-stats)
-<!--END_SECTION:waka-->
 
 
+
+<!--Contact-me-->
+
+
+## Contact-me and linguagues
+<div> 
+  <a href="https://instagram.com/Laiara-Leizer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/laiara" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:laiaraleizer06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/laiara-leizer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+
+
+<!-- Final Midias Sociais-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- Finish contact-me-->
 
 
 
 
+## My WakaTime:
 
-<!--Jogo da cobrinha
-
-
-
-
-
-##
-<!--Card-->
-<!--![Laiara-Leizer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laiara-Leizer&theme=react&hide_border=true)-->
-
-
-
-
-##
-;
-
--->
-
-
-
-
-
+<!--START_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara&layout=compact&card_width=600px)](https://github.com/Laiara-Leizer/github-readme-stats)
+<!--END_SECTION:waka-->
 
 
 
@@ -60,15 +62,7 @@
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+
 
   ##
  
