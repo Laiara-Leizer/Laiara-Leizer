@@ -2,13 +2,11 @@
 ## Olá, meu nome é Laiara Leizer, uma estudante, com grandes sonhos e paixões neste vasto mundo da programação :)
 
 <a href="https://github.com/Laiara-Leizer/github-readme-stats">
-  <img width=446px align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" /><img width=398px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
+  <img width=446px align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
+  <img width=398px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
+  
 </a>
 <!--Midias Sociais-->
-
-
-
-
 
 
 
