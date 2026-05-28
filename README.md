@@ -1,18 +1,7 @@
 
-## Olá, meu nome é Laiara Leizer, uma estudante, com grandes sonhos e paixões neste vasto mundo da programação :)
-
-<a href="https://github.com/Laiara-Leizer/github-readme-stats">
-  <img width=446px align="center" src="https://github-readme-stats.vercel.app/api?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" /><img width=398px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiara-Leizer&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br" />
-  
-</a>
-
-<!--Midias Sociais-->
-
-
-
+## Olá, meu nome é Laiara Leizer, uma programadora, com grandes sonhos e paixões neste vasto mundo da programação :)
 
 <!--Contact-me-->
-
 
 </div>
   <div style="display: inline_block"><br>
@@ -24,7 +13,6 @@
   <img align="center" alt="Lai-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Lai-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Lai-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Lai-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
 </div>
 
 ##
@@ -33,13 +21,12 @@
   <a href="https://instagram.com/Laiara_Leizer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--   <a href="https://discord.gg/3zTFJV7NYq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "malto:laiaraleizer06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laiara-leizer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-         
-
-
+  <a href="https://www.linkedin.com/in/laiara-leizer06/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+        
 <!-- Final Midias Sociais-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laiara-Leizer/Laiara-Leizer/output/github-contribution-grid-snake.svg">
@@ -47,42 +34,6 @@
 </picture>
 
 <!-- Finish contact-me-->
-
-
-
-
-## My WakaTime:
-
-<!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laiara&layout=compact&card_width=600px)](https://github.com/Laiara-Leizer/github-readme-stats)
-<!--END_SECTION:waka-->
-
-
-
-
-
-<!--
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-
-
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Laiara-Leizer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Laiara-Leizeri" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatoLaiara-Leizer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Laiella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-
-
- --> 
 
 
 <!--
@@ -110,3 +61,36 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
    
 ⚡ Fun fact: Without being in the IT area, I would follow the police area, like the army or something like that.
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/Laiara-Leizer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/Laiara-Leizeri" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatoLaiara-Leizer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Laiella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+ --> 
